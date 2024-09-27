@@ -3,14 +3,14 @@
 |Erdi Nurrohmat|312310352|TI.23.A4|Pemrograman Web 1|
 
 Membuat paragraf dengan tag p dan menambahkan align untuk memindahkan text ke tengah
-
 <img width="459" alt="Screenshot 2024-09-27 082722" src="https://github.com/user-attachments/assets/f205de01-c744-48ed-9509-f630a45b692a">
 
-
- menambahkan judul pada web 
+menambahkan judul pada web 
+ 
  <img width="463" alt="Screenshot 2024-09-27 082711" src="https://github.com/user-attachments/assets/9163f4fc-3518-49dd-92c0-72cbcc4f083e">
  
 menambahkan paragraf pada web
+
 <img width="459" alt="Screenshot 2024-09-27 082722" src="https://github.com/user-attachments/assets/e23ac159-5461-4741-882a-cdd6bf4633f1">
 
 menambahkan gambar pada web
