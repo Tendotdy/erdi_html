@@ -3,6 +3,7 @@
 |Erdi Nurrohmat|312310352|TI.23.A4|Pemrograman Web 1|
 
 Membuat paragraf dengan tag p dan menambahkan align untuk memindahkan text ke tengah
+
 <img width="459" alt="Screenshot 2024-09-27 082722" src="https://github.com/user-attachments/assets/f205de01-c744-48ed-9509-f630a45b692a">
 
 
