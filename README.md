@@ -13,6 +13,7 @@ menambahkan paragraf pada web
 <img width="459" alt="Screenshot 2024-09-27 082722" src="https://github.com/user-attachments/assets/e23ac159-5461-4741-882a-cdd6bf4633f1">
 
 menambahkan gambar pada web
+
 <img width="262" alt="Screenshot 2024-09-26 183603" src="https://github.com/user-attachments/assets/ec7f268e-f9e4-456f-8576-22db85123ef1">
 
 menambahkan backround web  dengan menggunakan comand bg color pada body
